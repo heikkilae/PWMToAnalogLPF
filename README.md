@@ -2,7 +2,7 @@ Program for Arduino to generate analog signal from PWN by using low-pass filter.
 <br/>
 LPF Circuit:<br/>
 PWM-+--------(R)------+-AnalogOut<br/>
-				|<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br/>
 			   (C)<br/>
 				|<br/>
 			   GND<br/>
